@@ -1,7 +1,4 @@
-# FindFootball
-This is my final project that I created as part of CS50's Introduction to Programming with Python Course!
-
-Find Football - Football Data Retriever
+# Find Football - Football Data Retriever
 
 Overview:
 
