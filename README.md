@@ -20,6 +20,13 @@ After selecting a task, you will be asked to specify the football league for whi
 
 Depending on the selected task, you may be asked for additional information, such as the matchday for fixtures.
 
+## Demo:
+![alt text](image.png)
+![alt text](image-1.png)
+
+### For a Live Demonstration:
+https://youtu.be/LXkZ0VSmFH0
+
 ## Data Retrieval:
 
 Find Football uses the football-data.org API to fetch the requested information.
