@@ -25,9 +25,7 @@ Depending on the selected task, you may be asked for additional information, suc
 ![alt text](image-1.png)
 
 ### For a Live Demonstration:
-blob:https://app.clipchamp.com/6ebce771-6710-47cf-9c84-a9ab06662208
 
-For a Further Guide:
 https://youtu.be/LXkZ0VSmFH0
 
 ## Data Retrieval:
