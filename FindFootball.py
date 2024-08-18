@@ -2,7 +2,7 @@ import re
 import sys
 import requests
 
-API_TOKEN = "5046455350ed4dab870f83580522cea0"
+API_TOKEN = #your API key
 BASE_URL = "https://api.football-data.org/v4/competitions/"
 HEADERS = {"X-AUTH-TOKEN": API_TOKEN}
 
